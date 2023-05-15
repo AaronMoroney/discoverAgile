@@ -42,3 +42,7 @@ Here are some screenshots of the website:
 *Services Page landing*
 ![Screenshot 2023-05-15 at 14 24 49](https://github.com/AaronMoroney/discoverAgile/assets/102585645/560e5d66-0aa0-4f03-baff-789914ace75a)
 
+## Web Design and Development by Aaron Moroney.
+Enquiries: hello@aaronmoroney.com
+
+
